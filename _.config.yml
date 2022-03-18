@@ -7,3 +7,4 @@ include:
   - e/*
   - index.md
   - hello.md
+  - mixed.md
