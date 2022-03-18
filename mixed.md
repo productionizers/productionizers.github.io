@@ -1,4 +1,4 @@
-<div style="background-color:black;color:white;">
+<div class="test">
 # This is mixed md and html
 
 
