@@ -3,6 +3,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+title: productionizers
+description: "Blah blah blah"
 include:
   - e/*
   - index.md
