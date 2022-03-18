@@ -4,5 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - e/page.md
   - index.md
   - hello.md
