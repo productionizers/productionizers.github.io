@@ -2,149 +2,149 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/pt/categories/</loc>
+    <loc>http://productionizers.github.io/pt/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="http://productionizers.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/categories/"
+                href="http://productionizers.github.io/pt/categories/"
                 />
   </url><url>
-    <loc>https://example.com/pt/</loc>
+    <loc>http://productionizers.github.io/pt/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="http://productionizers.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="http://productionizers.github.io/pt/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/css/</loc>
+    <loc>http://productionizers.github.io/pt/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/css/"
+                href="http://productionizers.github.io/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/css/"
+                href="http://productionizers.github.io/pt/tags/css/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/destacado/</loc>
+    <loc>http://productionizers.github.io/pt/tags/destacado/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/post/markdown-syntax/</loc>
+    <loc>http://productionizers.github.io/pt/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/markdown-syntax/"
+                href="http://productionizers.github.io/post/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/post/markdown-syntax/"
+                href="http://productionizers.github.io/pt/post/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://example.com/pt/series/guia-de-temas/</loc>
+    <loc>http://productionizers.github.io/pt/series/guia-de-temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/tags/html/</loc>
+    <loc>http://productionizers.github.io/pt/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/html/"
+                href="http://productionizers.github.io/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/html/"
+                href="http://productionizers.github.io/pt/tags/html/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/markdown/</loc>
+    <loc>http://productionizers.github.io/pt/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/markdown/"
+                href="http://productionizers.github.io/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/markdown/"
+                href="http://productionizers.github.io/pt/tags/markdown/"
                 />
   </url><url>
-    <loc>https://example.com/pt/post/</loc>
+    <loc>http://productionizers.github.io/pt/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="http://productionizers.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/post/"
+                href="http://productionizers.github.io/pt/post/"
                 />
   </url><url>
-    <loc>https://example.com/pt/series/</loc>
+    <loc>http://productionizers.github.io/pt/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="http://productionizers.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/series/"
+                href="http://productionizers.github.io/pt/series/"
                 />
   </url><url>
-    <loc>https://example.com/pt/categories/sintaxe/</loc>
+    <loc>http://productionizers.github.io/pt/categories/sintaxe/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/tags/</loc>
+    <loc>http://productionizers.github.io/pt/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="http://productionizers.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="http://productionizers.github.io/pt/tags/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/temas/</loc>
+    <loc>http://productionizers.github.io/pt/tags/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/categories/temas/</loc>
+    <loc>http://productionizers.github.io/pt/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/pt/about/</loc>
+    <loc>http://productionizers.github.io/pt/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="http://productionizers.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/about/"
+                href="http://productionizers.github.io/pt/about/"
                 />
   </url>
 </urlset>
